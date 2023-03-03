@@ -1,0 +1,25 @@
+#no_se{
+    border-color: chartreuse; 
+    border-style: inset ;
+    border-width: 30px;
+}
+body{
+    background-color: rgb(255, 255, 255) !important;
+}
+#si_se{
+    border-color: blue;
+    border-style: inset ;
+    border-width: 30px ;
+}
+img{
+    width: 50% ;
+}
+#fifa{
+    background-color:#3E838F ;
+}
+#fornais{
+    background-color:rgb(214, 156, 48) ;
+}
+#medio_metro{
+    background-color: rgb(185, 41, 41);
+}
